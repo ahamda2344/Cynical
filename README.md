@@ -1,0 +1,2 @@
+# Cynical
+A simple program
